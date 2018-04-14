@@ -5,16 +5,8 @@
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR yellow]עודכן 13/1[/COLOR][COLOR blue][I][B] AnarchiTV.CO ערוצים חיים [/B][/I][/COLOR]
 rtmp://lutvdu.ddns.net:2000/edem/anal999
 
-#EXTINF:503 logo="http://anarchitv.co/TV/Logos/%d7%a2%d7%a8%d7%95%d7%a5%20%d7%9e%d7%a9%d7%aa%d7%a0%d7%94%20%d7%a0%d7%99%d7%a1%d7%99%d7%95%d7%a0%d7%99.png" channel-id="503" epg-id="503" group-title="Israel" tvg-logo="%d7%a2%d7%a8%d7%95%d7%a5%20%d7%9e%d7%a9%d7%aa%d7%a0%d7%94%20%d7%a0%d7%99%d7%a1%d7%99%d7%95%d7%a0%d7%99.png",[COLOR orange]ערוץ משתנה - עידכונים בקבוצה[/COLOR] [COLOR blue] [[/COLOR][COLOR red]ישראלי[/COLOR][COLOR blue]][/COLOR]
-rtmp://195.154.217.247:80/liverepeater playpath=146866 swfUrl=http://www.canaistv.net/player.swf live=1 pageUrl=http://deltatv.co/stream.php?id=146866 token=Fo5_n0w?U.rA6l3-70w47ch
 
-#EXTINF:26 logo="http://anarchitv.co/TV/Logos/BigBrother.png" channel-id="26" epg-id="26" group-title="Israel" tvg-logo="BigBrother.png",[COLOR orange]HD האח הגדול[/COLOR] [COLOR blue] [[/COLOR][COLOR red]ישראלי[/COLOR][COLOR blue]][/COLOR]
-http://streamup.global.ssl.fastly.net/app/bb-israel7s-stream/playlist.m3u8
-
-#EXTINF:11 logo="http://anarchitv.co/TV/Logos/1.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png",HD הערוץ הראשון [COLOR blue] [[/COLOR][COLOR red]ישראלי[/COLOR][COLOR blue]][/COLOR]
-http://62.90.90.52/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w1529130563_b1392000.m3u8?ttl=1452606785&cdn_token=fca71a03440c23e8c124517d391f45d1
-
-#EXTINF:10 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [COLOR blue] [[/COLOR][COLOR red]ישראלי[/COLOR][COLOR blue]][/COLOR]
+#EXTINF:10 logo="https://itunes.apple.com/gb/app/%D7%A2%D7%A8%D7%95%D7%A5-10/id435368846?mt=8" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [COLOR blue] [[/COLOR][COLOR red]ישראלי[/COLOR][COLOR blue]][/COLOR]
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
 
 #EXTINF:20 logo="http://anarchitv.co/TV/Logos/20.png" channel-id="20" epg-id="20" group-title="Israel" tvg-logo="20.png",ערוץ 20 [COLOR blue] [[/COLOR][COLOR red]ישראלי[/COLOR][COLOR blue]][/COLOR]
