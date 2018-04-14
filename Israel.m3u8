@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/be1747eee7bc07dfa425da17c6d5acc7.png", VOD קשת
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/c068b87e9f98c57aa894ba59b7ee1d35.png", רשת
+https://besttv1.aoslive.it.best-tv.com/reshet/studio/index_3.m3u8
