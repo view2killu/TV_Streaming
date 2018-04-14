@@ -3,6 +3,10 @@
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR yellow]עודכן 13/1[/COLOR][COLOR blue][I][B] AnarchiTV.CO ערוצים חיים [/B][/I][/COLOR]
 rtmp://lutvdu.ddns.net:2000/edem/anal999
 
+#EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/be1747eee7bc07dfa425da17c6d5acc7.png", VOD קשת
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+
 
 #EXTINF:10 logo="https://itunes.apple.com/gb/app/%D7%A2%D7%A8%D7%95%D7%A5-10/id435368846?mt=8" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [COLOR blue] [[/COLOR][COLOR red]ישראלי[/COLOR][COLOR blue]][/COLOR]
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
